@@ -1,6 +1,7 @@
 # 📊 Regional Retail Catchment & Profitability Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png) <img width="1855" height="847" alt="image" src="https://github.com/user-attachments/assets/bee9798c-70e1-4f5b-94af-e70a2684230f" />
+
 
 ## 📌 Business Objective
 This project transforms a raw, mathematically complex dataset of 5,000+ supermarket transactions into an interactive executive dashboard. The goal is to track regional sales performance, map spatial market catchments, and automate complex partner profit-sharing calculations.
