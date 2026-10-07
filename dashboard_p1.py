@@ -7,7 +7,7 @@ st.set_page_config(page_title="Retail Catchment Dashboard", layout="wide")
 st.title("📊 Regional Retail Catchment & Profitability")
 st.markdown("An interactive command center analyzing regional sales, profit-sharing, and product performance.")
 
-# 2. Load the Prepared Datasets
+# 2.Prepared Datasets
 monthly_summary = pd.read_csv('monthly_summary.csv')
 regional_summary = pd.read_csv('regional_summary.csv')
 product_summary = pd.read_csv('product_summary.csv')
